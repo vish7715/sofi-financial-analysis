@@ -111,7 +111,7 @@ The dashboard visualizes revenue growth, YoY growth trends, efficiency ratio , p
 
 ## 🖥️ Dashboard
 - 📊 **Interactive Power BI Dashboard:**  
-  
+  *https://github.com/vish7715/sofi-financial-analysis/blob/main/SOFi%20Dashboard.pbix*
 
 - 🐍 **Python SEC Scraping Script:**  
   *https://github.com/vish7715/FinTech-Analysis/blob/main/Scraping_SEC_Filings_SOFi.ipynb*
