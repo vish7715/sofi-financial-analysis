@@ -16,15 +16,15 @@ For this project, public data available on SEC EDGAR website as 10-K/10Q stateme
 The analysis focuses on the following key financial metrics:
 
 - **Revenue Analysis**  
-10K consolidated income statements data is extracted and used to calculate metrics as to how much revenue is generated per business segment across all 3 segments over a time frame of 5 years that helped in understanding the most revenue generating segment.
+10K consolidated income statements data is extracted and used to calculate metrics as to how much revenue is generated per business segment across all 3 segments over a time frame of 5 years that helped finance team to drive insights for revenue sliced by segment.
 
 
 - **Growth Quality Analysis**  
-Revenue YoY growth rate is used to analyze SOFi’s performance compared to past years and key drivers affecting it.
+Calculated measure - YoY growth is calculated using revenue current year to revenue last year. This metric helps understand how SOFi revenue has shifted year over year and drive valuable insights about the revenue comparison that .
 
 
 - **Efficiency Ratio**  
-Expenses to Revenue ratio is accessed to understand how SOFi is expanding in terms of increased spending vs platform expansion.
+From operational expenses and revenue numbers - Expense to Revenue Ratio metric is calculated that helps management understand how SOFi is growing in terms of generating more sales vs cutting down on operational costs.
 
 - **Product Ecosystem Expansion**  
 An assessment of growth in products, members, and accounts over time.
