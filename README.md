@@ -16,7 +16,7 @@ For this project, public data available on SEC EDGAR website as 10-K/10Q stateme
 The analysis focuses on the following key financial metrics:
 
 - **Revenue Analysis**  
-10K consolidated income statements data is used to analyze how much revenue is generated per business segment across all 3 segments over a time frame of 5 years , understanding the most revenue generating segment.
+10K consolidated income statements data is extracted and used to calculate metrics as to how much revenue is generated per business segment across all 3 segments over a time frame of 5 years that helped in understanding the most revenue generating segment.
 
 
 - **Growth Quality Analysis**  
@@ -125,7 +125,7 @@ The dashboard visualizes revenue growth, YoY growth trends, efficiency ratio , p
 - 📊 **Interactive Power BI Dashboard:**  
   *(https://github.com/vish7715/sofi-financial-analysis/blob/main/SOFi%20Dashboard.pbix)*
 
-- 🐍 **Python SEC Scraping Script:**  
+- **Python SEC Scraping Script:**  
   * (https://github.com/vish7715/FinTech-Analysis/blob/main/Scraping_SEC_Filings_SOFi.ipynb)*
 
 ---
